@@ -1,6 +1,7 @@
 class Cell
 
-  def initialize()
+  def initialize(coordinates)
+    
   end
 
 end
